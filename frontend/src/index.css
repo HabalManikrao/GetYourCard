@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: #f6efe2;
+  color: #3a2415;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle traditional paper texture via layered gradients */
+.bg-paper {
+  background-color: #f6efe2;
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(184, 134, 11, 0.06), transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(122, 18, 38, 0.05), transparent 40%);
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-colors;
+  }
+  .btn-primary {
+    @apply btn bg-maroon text-ivory hover:bg-maroon-dark;
+  }
+  .btn-gold {
+    @apply btn bg-gold text-white hover:bg-gold/90;
+  }
+  .btn-ghost {
+    @apply btn border border-maroon/20 bg-white/60 text-maroon hover:bg-white;
+  }
+  .card {
+    @apply rounded-xl border border-gold/20 bg-white/80 shadow-card;
+  }
+  .input {
+    @apply w-full rounded-lg border border-maroon/15 bg-white px-3 py-2 text-base text-maroon-dark outline-none focus:border-gold focus:ring-2 focus:ring-gold/30;
+  }
+  .label {
+    @apply mb-1 block text-sm font-medium text-maroon/80;
+  }
+}
+
+/* Canvas editor should use a neutral sans for its chrome */
+.editor-ui {
+  font-family: ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif;
+}

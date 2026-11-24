@@ -1,0 +1,78 @@
+{
+  "Cormorant Garamond": {
+    "400": "cormorant-garamond-400.woff2",
+    "700": "cormorant-garamond-700.woff2"
+  },
+  "Playfair Display": {
+    "400": "playfair-display-400.woff2",
+    "700": "playfair-display-700.woff2"
+  },
+  "Noto Serif": {
+    "400": "noto-serif-400.woff2",
+    "700": "noto-serif-700.woff2"
+  },
+  "Noto Sans": {
+    "400": "noto-sans-400.woff2",
+    "700": "noto-sans-700.woff2"
+  },
+  "Noto Serif Kannada": {
+    "400": "noto-serif-kannada-400.woff2",
+    "700": "noto-serif-kannada-700.woff2"
+  },
+  "Noto Sans Kannada": {
+    "400": "noto-sans-kannada-400.woff2",
+    "700": "noto-sans-kannada-700.woff2"
+  },
+  "Noto Serif Devanagari": {
+    "400": "noto-serif-devanagari-400.woff2",
+    "700": "noto-serif-devanagari-700.woff2"
+  },
+  "Noto Sans Devanagari": {
+    "400": "noto-sans-devanagari-400.woff2",
+    "700": "noto-sans-devanagari-700.woff2"
+  },
+  "Noto Serif Telugu": {
+    "400": "noto-serif-telugu-400.woff2",
+    "700": "noto-serif-telugu-700.woff2"
+  },
+  "Noto Serif Tamil": {
+    "400": "noto-serif-tamil-400.woff2",
+    "700": "noto-serif-tamil-700.woff2"
+  },
+  "Noto Serif Malayalam": {
+    "400": "noto-serif-malayalam-400.woff2",
+    "700": "noto-serif-malayalam-700.woff2"
+  },
+  "Noto Serif Bengali": {
+    "400": "noto-serif-bengali-400.woff2",
+    "700": "noto-serif-bengali-700.woff2"
+  },
+  "Noto Sans Gujarati": {
+    "400": "noto-sans-gujarati-400.woff2",
+    "700": "noto-sans-gujarati-700.woff2"
+  },
+  "Noto Sans Gurmukhi": {
+    "400": "noto-sans-gurmukhi-400.woff2",
+    "700": "noto-sans-gurmukhi-700.woff2"
+  },
+  "Noto Sans Oriya": {
+    "400": "noto-sans-oriya-400.woff2",
+    "700": "noto-sans-oriya-700.woff2"
+  },
+  "Noto Naskh Arabic": {
+    "400": "noto-naskh-arabic-400.woff2",
+    "700": "noto-naskh-arabic-700.woff2"
+  },
+  "Noto Sans Arabic": {
+    "400": "noto-sans-arabic-400.woff2",
+    "700": "noto-sans-arabic-700.woff2"
+  },
+  "Noto Nastaliq Urdu": {
+    "400": "noto-nastaliq-urdu-400.woff2",
+    "700": "noto-nastaliq-urdu-700.woff2"
+  },
+  "Noto Serif Hebrew": {
+    "400": "noto-serif-hebrew-400.woff2",
+    "700": "noto-serif-hebrew-700.woff2"
+  }
+}
